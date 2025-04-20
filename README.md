@@ -117,5 +117,6 @@ http://localhost:8501
 - Limited understanding of industry-specific terminology  
 - Cannot detect subtle emotional nuances
 
-
+#### Here is the Deployed Link: https://huggingface.co/spaces/Jivan01/Sentiment_Analysis
+Follow me on [Hugging Face](https://huggingface.co/Jivan01)
 **Created with ❤️ by [Jivan Jamdar](https://github.com/Jivan052)**
